@@ -1,6 +1,6 @@
 # Natura - Natural Event Tracker
 
-> This is a React app to track wildfires and plot them on a Google map.
+> This is a React app to track natural events and plot them on a map.
 
 ## Usage
 
